@@ -1,4 +1,4 @@
-# ZJU-blockchain-course-2025
+# LAJ-blockchain-course-2025
 
 ⬆ 可以️修改成你自己的项目名。
 
