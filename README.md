@@ -365,7 +365,8 @@ function hasUserClaimed(address user) external view returns (bool)
 - 当用户在`TokenFaucet.tsx`领取代币成功后，触发onClaimSuccess，`Wallet.tsx`会自动刷新余额，用户能立即看到到账效果
 
 ## 项目运行截图
-
+###  初始主界面
+![初始主界面](./assets/image.png)
 
 ## 参考内容
 
